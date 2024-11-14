@@ -77,3 +77,4 @@ The list is organized in a timeline and separated into [Open Source](#open-sourc
 | [2024-09-24](https://blog.kagi.com/announcing-assistant)                                                                                                       | [Kagi Assistant](https://kagi.com/welcome/assistant) |
 | [2024-10-14](https://community.openai.com/t/deepfind-a-privacy-first-ai-search-engine/978428)                                                                  | [Deepfind](https://www.deepfind.co/)                 |
 | [2024-10-31](https://openai.com/index/introducing-chatgpt-search/)                                                                                             | [ChatGPT Search](https://chatgpt.com/?hints=search)  |
+| [2024-10-31](https://jigsawstack.com/ai-search)                                                                                             | [JigsawStack AI Search](https://chatgpt.com/?hints=search)  |
