@@ -39,6 +39,7 @@ The list is organized in a timeline and separated into [Open Source](#open-sourc
 | [2024-09-15](https://github.com/TheBlewish/Web-LLM-Assistant-Llamacpp-Ollama/commit/b6b77ee5b49bbb451791600b1aa1325bcaf806b6) | [Web LLM Assistant](https://github.com/TheBlewish/Web-LLM-Assistant-Llamacpp-Ollama) | [Video](https://www.youtube.com/watch?v=ZXbMCet5kjo)                                                                                                                                   |
 | [2024-10-17](https://github.com/pengfeng/ask.py/commit/ad2beb3bca5c63f655425fa6771a38771526c188)                              | [Ask.py](https://github.com/pengfeng/ask.py)                                         | [Demo](https://huggingface.co/spaces/LeetTools/AskPy)                                                                                                                                  |
 | [2024-11-04](https://github.com/brunostjohn/perplexideez/commit/60080b84834d3293ba002ef72cb5895599384d03)                     | [Perplexideez](https://github.com/brunostjohn/perplexideez)                          | [Screenshot](https://raw.githubusercontent.com/brunostjohn/perplexideez/8961078bc60a9508b5d06e5da0af7eea8896e99a/assets/browser.png)                                                   |
+| [2024-11-15](https://github.com/shivvamm/Search-With-Aisia/commit/<your_commit_hash>) | [Search With Alisia](https://github.com/shivvamm/Search-With-Aisia) | [Demo](https://searchwithalisia.netlify.app/) |
 
 ## Closed Source
 
