@@ -13,11 +13,9 @@
   <body>
     <div id="readme"></div>
     <script>
-      const repoOwner = "felladrin";
-      const repoName = "awesome-ai-web-search";
-      const url = `https://raw.githubusercontent.com/${repoOwner}/${repoName}/refs/heads/main/readme.md`;
-
-      fetch(url)
+      fetch(
+        "https://raw.githubusercontent.com/felladrin/awesome-ai-web-search/refs/heads/main/readme.md"
+      )
         .then((response) => response.text())
         .then((markdown) => {
           const html = marked.parse(markdown);
@@ -26,7 +24,7 @@
         .catch((error) => console.error(error));
     </script>
     <a
-      href="https://github.com/felladrin/awesome-ai-web-search/blob/main/readme.md"
+      href="https://github.com/felladrin/awesome-ai-web-search"
       class="github-corner"
       title="Edit on GitHub"
       aria-label="Edit on GitHub"
