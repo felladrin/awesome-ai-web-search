@@ -1,1 +1,4 @@
 theme: minima
+minima:
+  skin: solarized
+title:
