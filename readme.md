@@ -1,8 +1,12 @@
 # AI Web Search [![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/topics/awesome)
 
-A list of software that allows searching the web with the assistance of AI.
+A curated list of AI-powered web search software, focusing on the intersection of Large Language Models (LLMs) and web search capabilities.
 
-The list is organized in a timeline and separated into [Open Source](#open-source) and [Closed Source](#closed-source) categories.
+The list is organized in a timeline, separated into [Open Source](#open-source) and [Closed Source](#closed-source) software that support the following use cases:
+
+- Web search with LLM summarization and follow-up questions.
+- LLM chat with web search support.
+- Agent-driven research done by LLMs searching the web and generating a report.
 
 ## Open Source
 
