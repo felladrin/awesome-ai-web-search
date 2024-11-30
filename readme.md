@@ -2,11 +2,18 @@
 
 A curated list of AI-powered web search software, focusing on the intersection of Large Language Models (LLMs) and web search capabilities.
 
-The list is organized in a timeline, separated into [Open Source](#open-source) and [Closed Source](#closed-source) software that support the following use cases:
+The list is organized as a timeline, containing software that support the following use cases:
 
 - Web search with LLM summarization and follow-up questions.
 - LLM chat with web search support.
 - Agent-driven research done by LLMs searching the web and generating a report.
+
+## Contents
+
+- [AI Web Search ](#ai-web-search-)
+  - [Contents](#contents)
+  - [Open Source](#open-source)
+  - [Closed Source](#closed-source)
 
 ## Open Source
 
