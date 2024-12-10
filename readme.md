@@ -96,3 +96,4 @@ The list is organized as a timeline, containing software that support the follow
 | [2024-09-24](https://blog.kagi.com/announcing-assistant)                                                                                                       | [Kagi Assistant](https://kagi.com/welcome/assistant) |
 | [2024-10-14](https://community.openai.com/t/deepfind-a-privacy-first-ai-search-engine/978428)                                                                  | [Deepfind](https://www.deepfind.co/)                 |
 | [2024-10-31](https://openai.com/index/introducing-chatgpt-search/)                                                                                             | [ChatGPT Search](https://chatgpt.com/?hints=search)  |
+| [2024-12-10](https://www.reddit.com/r/LocalLLaMA/comments/1hazh68/web_search_is_now_available_on_chatdeepseekcom_an/)                                          | [DeepSeek Chat](https://chat.deepseek.com/)          |
