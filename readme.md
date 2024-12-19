@@ -10,10 +10,8 @@ The list is organized as a timeline, containing software that support the follow
 
 ## Contents
 
-- [AI Web Search ](#ai-web-search-)
-  - [Contents](#contents)
-  - [Open Source](#open-source)
-  - [Closed Source](#closed-source)
+- [Open Source](#open-source)
+- [Closed Source](#closed-source)
 
 ## Open Source
 
