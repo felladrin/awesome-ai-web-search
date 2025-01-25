@@ -6,6 +6,7 @@ jobs:
   sync-to-hf:
     name: Sync to HuggingFace Spaces
     runs-on: ubuntu-latest
+    environment: hugging-face
     steps:
       - uses: actions/checkout@v4
       - uses: JacobLinCool/huggingface-sync@v1
