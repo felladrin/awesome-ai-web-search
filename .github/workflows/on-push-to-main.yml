@@ -1,0 +1,17 @@
+name: On Push To Main
+on:
+  push:
+    branches: ["main"]
+jobs:
+  sync-to-hf:
+    name: Sync to HuggingFace Spaces
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: JacobLinCool/huggingface-sync@v1
+        with:
+          github: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ vars.HF_SPACE_OWNER }}
+          space: ${{ vars.HF_SPACE_NAME }}
+          token: ${{ secrets.HF_TOKEN }}
+          configuration: ".github/hf-space-config.yml"
