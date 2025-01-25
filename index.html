@@ -25,7 +25,9 @@
         }>${content}</a>`;
       };
       marked.setOptions({ renderer });
-      fetch("./README.md")
+      fetch(
+        "https://raw.githubusercontent.com/felladrin/awesome-ai-web-search/refs/heads/main/README.md"
+      )
         .then((response) => response.text())
         .then((markdown) => {
           const html = marked.parse(markdown);
