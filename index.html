@@ -13,9 +13,19 @@
   <body>
     <div id="readme"></div>
     <script>
-      fetch(
-        "https://raw.githubusercontent.com/felladrin/awesome-ai-web-search/refs/heads/main/README.md"
-      )
+      const renderer = new marked.Renderer();
+      renderer.link = function ({ href, title, text, type, tokens }) {
+        const [firstToken] = tokens;
+        const content =
+          firstToken.type === "image"
+            ? `<img src="${firstToken.href}" alt="${firstToken.text}" />`
+            : text;
+        return `<a target="_blank" href="${href}"${
+          title ? ` title="${title}"` : ""
+        }>${content}</a>`;
+      };
+      marked.setOptions({ renderer });
+      fetch("./README.md")
         .then((response) => response.text())
         .then((markdown) => {
           const html = marked.parse(markdown);
