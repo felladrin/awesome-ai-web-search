@@ -104,3 +104,4 @@ The list is organized as a timeline, containing software that support the follow
 | [2024-12-10](https://www.reddit.com/r/LocalLLaMA/comments/1hazh68/web_search_is_now_available_on_chatdeepseekcom_an/)                                          | [DeepSeek Chat](https://chat.deepseek.com/)            |
 | [2024-12-10](https://www.reddit.com/r/SideProject/comments/1hchgmx/introducing_hika_ai_a_free_ai_search_engine_for/)                                           | [Hika](https://hika.fyi)                               |
 | [2024-12-11](https://blog.google/products/gemini/google-gemini-deep-research/)                                                                                 | [Gemini Deep Research](https://gemini.google/advanced) |
+| [2024-12-29](https://news.ycombinator.com/item?id=42540979)                                                                                                    | [Graphthem](https://graphthem.com/)                    |
