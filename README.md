@@ -115,3 +115,4 @@ The list is organized as a timeline, containing software that support the follow
 | [2024-12-29](https://news.ycombinator.com/item?id=42540979)                                                                                                    | [Graphthem](https://graphthem.com/)                    |
 | [2025-02-02](https://openai.com/index/introducing-deep-research/)                                                                                              | [ChatGPT Deep Research](https://chatgpt.com/)          |
 | [2025-02-26](https://www.reddit.com/r/ChatGPTPro/comments/1iyjxhi/i_united_deepseek_r1_with_other_ais_to_make_a/)                                              | [Ithy](https://ithy.com/)                              |
+| [2025-02-28](https://labs.lumigo.ai/)                                                                                                                          | [Lumigo](https://lumigo.ai/)                           |
