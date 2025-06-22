@@ -80,6 +80,10 @@ The list is organized as a timeline, containing software that support the follow
 | [2025-05-10](https://github.com/JasonHonKL/spy-search/commit/23496d0c70cc02c498ec5443993b54613b2274b9)                               | [Spy Search](https://github.com/JasonHonKL/spy-search)                                               | [Video](https://www.youtube.com/watch?v=JsYQGQou3sM)                                                                                                                                   |
 | [2025-05-22](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/commit/abd44038584492f0c874b7255e119c558e2e6e3b) | [Gemini Fullstack LangGraph](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) | [Screenshot](https://raw.githubusercontent.com/google-gemini/gemini-fullstack-langgraph-quickstart/5a8f89a9de6de8fc1930696706e321c001144ed4/app.png)                                   |
 
+| [2025-06-22](https://ayesoul.com/) | [AyeSoul](https://ayesoul.com/) – Free AI search, answers & task engine powered by SOUL X3 | N/A |   
+
+| [2025-06-22](https://venice.ai/) | [Venice](https://venice.ai/) – A private, uncensored AI assistant for research and creativity. Integrates AI-powered web search, document summarization, and generation of text, code, and images using open‑source models via a decentralized inference system. | N/A |
+
 ## Closed Source
 
 | Launch Date                                                                                                                                                    | Software                                               |
