@@ -139,4 +139,4 @@ The list is organized as a timeline, containing software that support the follow
 | [2025-02-26](https://www.reddit.com/r/ChatGPTPro/comments/1iyjxhi/i_united_deepseek_r1_with_other_ais_to_make_a/)                                              | [Ithy](https://ithy.com/)                              |
 | [2025-02-27](https://www.producthunt.com/products/colomboai/launches)                                                                                          | [ColomboAI](https://colomboai.com/)                    |
 | [2025-02-28](https://labs.lumigo.ai/)                                                                                                                          | [Lumigo](https://lumigo.ai/)                           |
-| [2024-06-20](https://ayesoul.com/about/soul-x3?utm_source=chatgpt.com)                                                                                         | [AyeSoul](https://ayesoul.com/)                        |
+| [2024-06-20](https://ayesoul.com/about/soul-x3)                                                                                         | [AyeSoul](https://ayesoul.com/)                       |
