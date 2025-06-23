@@ -79,11 +79,8 @@ The list is organized as a timeline, containing software that support the follow
 | [2025-04-26](https://github.com/brooksy4503/chatlima/commit/f035a85d353d766b5465f0b4e294c5386b3d49cc)                                | [ChatLima](https://github.com/brooksy4503/chatlima)                                                  | [Demo](https://chatlima.com/)                                                                                                                                                          |
 | [2025-05-10](https://github.com/JasonHonKL/spy-search/commit/23496d0c70cc02c498ec5443993b54613b2274b9)                               | [Spy Search](https://github.com/JasonHonKL/spy-search)                                               | [Video](https://www.youtube.com/watch?v=JsYQGQou3sM)                                                                                                                                   |
 | [2025-05-22](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/commit/abd44038584492f0c874b7255e119c558e2e6e3b) | [Gemini Fullstack LangGraph](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) | [Screenshot](https://raw.githubusercontent.com/google-gemini/gemini-fullstack-langgraph-quickstart/5a8f89a9de6de8fc1930696706e321c001144ed4/app.png)                                   |
-
-| [2025-06-22](https://ayesoul.com/) | [AyeSoul](https://ayesoul.com/) – Free AI search, answers & task engine powered by SOUL X3 | N/A |   
-
-| [2025-06-22](https://venice.ai/) | [Venice](https://venice.ai/) – A private, uncensored AI assistant for research and creativity. Integrates AI-powered web search, document summarization, and generation of text, code, and images using open‑source models via a decentralized inference system. | N/A |
-
+  
+  
 ## Closed Source
 
 | Launch Date                                                                                                                                                    | Software                                               |
@@ -143,3 +140,4 @@ The list is organized as a timeline, containing software that support the follow
 | [2025-02-26](https://www.reddit.com/r/ChatGPTPro/comments/1iyjxhi/i_united_deepseek_r1_with_other_ais_to_make_a/)                                              | [Ithy](https://ithy.com/)                              |
 | [2025-02-27](https://www.producthunt.com/products/colomboai/launches)                                                                                          | [ColomboAI](https://colomboai.com/)                    |
 | [2025-02-28](https://labs.lumigo.ai/)                                                                                                                          | [Lumigo](https://lumigo.ai/)                           |
+| [2024-06-20](https://ayesoul.com/about/soul-x3) | [AyeSoul](https://ayesoul.com/) | N/A |
