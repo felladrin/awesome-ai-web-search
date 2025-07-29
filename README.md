@@ -141,3 +141,4 @@ The list is organized as a timeline, containing software that support the follow
 | [2025-02-27](https://www.producthunt.com/products/colomboai/launches)                                                                                          | [ColomboAI](https://colomboai.com/)                    |
 | [2025-02-28](https://labs.lumigo.ai/)                                                                                                                          | [Lumigo](https://lumigo.ai/)                           |
 | [2025-04-14](https://news.lmarena.ai/introducing-the-search-arena-evaluating-search-enabled-ai/)                                                               | [LMArena](https://lmarena.ai/)                         |
+| [2025-07-28](https://x.com/Zai_org/status/1949721032970903651)                                                                                                 | [Z.ai](https://chat.z.ai/)                             |
