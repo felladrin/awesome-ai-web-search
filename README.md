@@ -5,13 +5,8 @@ A curated list of AI-powered web search software, focusing on the intersection o
 The list is organized as a timeline, containing software that support the following use cases:
 
 - Web search with LLM summarization and follow-up questions.
-- LLM chat with web search support.
-- Agent-driven research done by LLMs searching the web and generating a report.
-
-## Contents
-
-- [Open Source](#open-source)
-- [Closed Source](#closed-source)
+- LLM chat with web search support via function calling.
+- Agent-driven web research for generation of reports.
 
 ## Open Source
 
