@@ -147,3 +147,4 @@ The list is organized as a timeline, containing software that support the follow
 | [2025-07-23](https://proton.me/blog/lumo-ai)                                                                                                                   | [Lumo](https://lumo.proton.me/)                        |
 | [2025-07-28](https://x.com/Zai_org/status/1949721032970903651)                                                                                                 | [Z.ai](https://chat.z.ai/)                             |
 | [2025-08-07](https://miromind.ai/blog/miromind-open-deep-research)                                                                                             | [MiroThinker](https://dr.miromind.ai/)                 |
+| [2025-08-25](https://www.instagram.com/p/DNGyGnYMLzr/)                                                                                                         | [YouTopia](https://youtopia.page/)                     |
