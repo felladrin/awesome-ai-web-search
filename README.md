@@ -153,3 +153,4 @@ The list is organized as a timeline, containing software that support the follow
 | [2025-08-07](https://miromind.ai/blog/miromind-open-deep-research)                                                                                             | [MiroThinker](https://dr.miromind.ai/)                 |
 | [2025-08-25](https://www.instagram.com/p/DNGyGnYMLzr/)                                                                                                         | [YouTopia](https://youtopia.page/)                     |
 | [2026-01-27](https://www.yahooinc.com/press/introducing-yahoo-scout-a-new-ai-answer-engine)                                                                    | [Yahoo Scout](https://scout.yahoo.com/)                |
+| [2024-06-01](https://indexfox.ai/)                                                                                                                              | [IndexFox](https://indexfox.ai/)                       |
