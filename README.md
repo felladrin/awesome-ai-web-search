@@ -8,6 +8,7 @@ The list is organized as a timeline, containing software that support the follow
 - LLM chat with web search support via function calling.
 - Agent-driven web research for generation of reports.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code with integrated web search, OSINT, and deep research agents. MIT licensed.
 ## Open Source
 
 | Initial Commit                                                                                                                       | Software                                                                                             | Preview                                                                                                                                                                                |
