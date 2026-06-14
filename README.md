@@ -84,6 +84,7 @@ The list is organized as a timeline, containing software that support the follow
 | [2026-02-05](https://github.com/AL-MARID/Lorph/commit/40682beb836ae38a7a5f4e8e212cae91a1c3cd4b)                                      | [Lorph](https://github.com/AL-MARID/Lorph)                                                           | [Screenshot](https://raw.githubusercontent.com/AL-MARID/Lorph/2b37c8a043f1433506157d92a594b6e67469d090/images/Lorph1.webp)                                                             |
 | [2026-02-08](https://github.com/rupeshs/verity/commit/6f1acfe0be074e12272089fcdeee8215e426adab)                                      | [Verity](https://github.com/rupeshs/verity)                                                          | [Screenshot](https://raw.githubusercontent.com/rupeshs/verity/12954e3da84dda8c00e7c9487c1a35a3f4968906/docs/images/verity-screenshot.png)                                              |
 | [2026-02-10](https://github.com/chutesai/chutes-search/commit/bb5eafeec98e6caeabf78ad77a9d174992190272)                              | [Chutes Search](https://github.com/chutesai/chutes-search)                                           | [Homepage](https://search.chutes.ai/)                                                                                                                                                  |
+| [2026-03-04](https://github.com/tobocop2/lilbee/commit/d9f6ee936ab7ff79cc675ff260b931dbcc77fff8) | [lilbee](https://github.com/tobocop2/lilbee) | [Homepage](https://lilbee.sh) |
 
 ## Closed Source
 
