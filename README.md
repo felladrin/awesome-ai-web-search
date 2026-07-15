@@ -151,6 +151,7 @@ Focused on general-purpose web search; domain-specific search APIs (academic pap
 | [2022-11-10](https://news.ycombinator.com/item?id=33551131)                                                       | [Exa](https://exa.ai/)                                      | Search API      |
 | [2023-04-15](https://web.archive.org/web/20230415111627/https://tavily.com/)                                      | [Tavily](https://www.tavily.com/)                           | Search API      |
 | [2023-05-30](https://brave.com/blog/search-api-launch/)                                                           | [Brave Search API](https://brave.com/search/api/)           | Search API      |
+| [2023-07-24](https://web.archive.org/web/20230724061508/https://www.olostep.com/)                                 | [Olostep](https://www.olostep.com/)                         | Scrape + Search |
 | [2024-02-06](https://www.producthunt.com/products/searchapi/launches)                                             | [SearchApi](https://www.searchapi.io/)                      | SERP API        |
 | [2024-03-03](https://github.com/dataforseo/PythonClient/commit/88988293f67841dd9f96a4c2f87978bd18e56015)          | [DataForSEO](https://dataforseo.com/)                       | SERP API        |
 | [2024-04-10](https://github.com/jina-ai/reader/commit/8b9ecf2e6038b8d1314dc157d8971642e3f18500)                   | [Jina](https://s.jina.ai/)                                  | Scrape + Search |
