@@ -162,3 +162,4 @@ Focused on general-purpose web search; domain-specific search APIs (academic pap
 | [2026-01-03](https://www.desearch.ai/blog/decentralized-search-engine-desearch-bittensor)                         | [Desearch](https://www.desearch.ai/web-search-api)          | Search API      |
 | [2026-03-09](https://github.com/xberg-io/crawlberg/commit/5a34a5a363174fe3476406e167f7a9be2ba2b6d0) | [Crawlberg](https://github.com/xberg-io/crawlberg) | Scrape + Crawl |
 | [2026-05-28](https://www.24-7pressrelease.com/press-release/535286/talordata-launches-real-time-serp-api-for-ai-agents-seo-platforms-and-search-data-workflows) | [TalorData](https://www.talordata.com/) | SERP API        |
+| [2026-07-07](https://github.com/goofrey/zoom-search/releases/tag/v0.1.1) | [Zoom Search](https://github.com/goofrey/zoom-search) | Search + Answer |
