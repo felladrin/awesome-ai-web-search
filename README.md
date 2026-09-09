@@ -86,6 +86,7 @@ The list is organized as a timeline, containing software that support the follow
 | [2026-02-10](https://github.com/chutesai/chutes-search/commit/bb5eafeec98e6caeabf78ad77a9d174992190272)                              | [Chutes Search](https://github.com/chutesai/chutes-search)                                           | [Homepage](https://search.chutes.ai/)                                                                                                                                                  |
 | [2026-03-04](https://github.com/tobocop2/lilbee/commit/d9f6ee936ab7ff79cc675ff260b931dbcc77fff8) | [lilbee](https://github.com/tobocop2/lilbee) | [Homepage](https://lilbee.sh) |
 | [2026-05-01](https://github.com/jasonzliang/caesar-agent/commit/e98f40b95d174091c32885dc290400495fbb6cda) | [Caesar](https://github.com/jasonzliang/caesar-agent) | [Homepage](https://jasonzliang.github.io/caesar-agent/) |
+| [2026-09-03](https://github.com/theguysudo/ENZO/commit/f739b01844baf7dae8dec3389092ed51539ccb4c) | [ENZO](https://github.com/theguysudo/ENZO) | [Demo](https://enzo-hub.duckdns.org) |
 
 ## Closed Source
 
