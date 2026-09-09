@@ -1,0 +1,32 @@
+name: "Format README"
+on:
+  push:
+    branches: ["main"]
+    paths: ["README.md"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: format-readme
+  cancel-in-progress: true
+
+jobs:
+  format:
+    name: Reformat and open a pull request
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - run: npx --yes prettier@3 --write README.md
+      - uses: peter-evans/create-pull-request@v8
+        with:
+          branch: format-readme
+          delete-branch: true
+          commit-message: "Format README"
+          title: "Format README"
+          body: |
+            The tables in `README.md` are out of format (usually because a row was added without the column padding).
+
+            This applies `prettier --write README.md`, so only the spacing inside the tables changes.
