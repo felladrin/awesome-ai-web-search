@@ -140,6 +140,7 @@ The list is organized as a timeline, containing software that support the follow
 | [2025-08-07](https://miromind.ai/blog/miromind-open-deep-research)                                                                                             | [MiroThinker](https://dr.miromind.ai/)                 |
 | [2026-01-27](https://www.yahooinc.com/press/introducing-yahoo-scout-a-new-ai-answer-engine)                                                                    | [Yahoo Scout](https://scout.yahoo.com/)                |
 | [2026-07-28](https://www.producthunt.com/products/getaskai/launches)                                                                                           | [GetAskAI](https://getaskai.com/)                      |
+| [2026-09-23](https://news.ycombinator.com/item?id=49812270)                                                                                                    | [Ceptile](https://www.ceptile.com/)                    |
 
 ## Tools for AI Agents
 
