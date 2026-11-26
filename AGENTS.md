@@ -38,7 +38,7 @@ Copy an existing row of the same table. Sort rows by date, ascending; on the sam
 Every date links to a dated source that names the product itself.
 
 - Open-source software, in any table: the first commit of the repository (the commit with no parent).
-- Closed-source software, in order of preference: the makers' announcement (blog post, Show HN, Product Hunt, press release), then the first Wayback Machine capture that shows the capability that qualifies it, then the first npm or PyPI publish of the official SDK.
+- Closed-source software: the earliest dated source that shows the capability that qualifies it. That can be the makers' announcement (blog post, Show HN, Product Hunt, press release), a Wayback Machine capture, or the npm or PyPI publish of the official SDK (the first version that has the capability). A waitlist or early-access page doesn't count.
 - Don't use a marketplace listing record, a third-party review, or an undated page.
 
 ## Pull requests
